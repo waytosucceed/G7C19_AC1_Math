@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Are the given angles ∠3 and ∠5 alternate exterior angles?",
+        "options": ["True", "False"],
+        "correct": 1,
+      "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "In the given figure ∠3 forms a pair of co-interior angles with which of the following angles?",
+        "options": ["∠4", "∠2", "Both A and B", "Neither A nor B"],
+        "correct": 0,
+      "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "State true or false: \"The angles that lie on the outer side of the parallel lines but on the opposite sides of the transversal are alternate exterior angles.\"",
+        "options": ["True", "False"],
+        "correct": 0,
+      "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "Identify ∠1 and ∠4 in the figure are alternate exterior or alternate interior angles?",
+        "options": ["Alternate exterior angles", "Alternate interior angles"],
+        "correct": 0,
+      "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "In the figure are ∠1 and ∠7 alternate exterior angles?",
+        "options": ["Yes", "No"],
+        "correct": 0,
+      "img": "./assests/images/5.jpg"
+    }
+]
